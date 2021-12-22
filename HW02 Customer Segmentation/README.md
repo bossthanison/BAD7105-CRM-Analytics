@@ -8,7 +8,7 @@
 ### 4. K-mean
 
 ### 5. PCA for visualization
-
+![download](https://user-images.githubusercontent.com/78030264/147134747-c9fdb94b-7bf5-42c3-afa9-5869abe59b65.png)
 ### 6. Interpret results
-
+![download (1)](https://user-images.githubusercontent.com/78030264/147134865-c7fa494d-3d3f-4a86-a5f6-42a622087abf.png)
 ### 7. Conclusion
