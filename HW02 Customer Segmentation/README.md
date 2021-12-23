@@ -41,5 +41,14 @@
 
 
 ## 6. Interpret results
-![download (1)](https://user-images.githubusercontent.com/78030264/147134865-c7fa494d-3d3f-4a86-a5f6-42a622087abf.png)
+เนื่องจากเราจำเป็นต้องอธิบายได้ว่าแต่ละกลุ่มมีคุณลักษณะเป็นอย่างไร เพื่อที่เราจะสามารถไปทำ action ได้ถูกกับลูกค้าแต่ละกลุ่ม โดยจะทำ 2 วิธี คือ
+
+### Descriptive Statistics
+เป็นการเช็คสถิติในแต่ละกลุ่ม เพื่อดูว่าแต่ละกลุ่มมีคุณสมบัติเป็นอย่างไร
+
+<img src="https://user-images.githubusercontent.com/78030264/147203204-3fc9726f-920e-4f88-8830-2a237fa84007.png" width="800" >
+
+### Tree model
+ทำการนำ K-mean ที่ได้ไปเข้า Tree model เนื่องจาก Tree model สามารถพล็อตเป็น Tree diagram แล้วตรวจสอบดูว่า  algorithm ใช้กฎเกณฑ์อะไรในการแยกแต่ละกลุ่ม
+![tree](https://user-images.githubusercontent.com/78030264/147202996-1b3fbe59-6b82-4778-b1ae-34d01164eee5.png)
 ## 7. Conclusion
