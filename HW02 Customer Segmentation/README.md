@@ -5,7 +5,7 @@
 
 เนื่องจากข้อมูลที่ได้มาเป็นข้อมูล Transaction data (1 แถวเป็น 1 การซื้อ) แต่เราจะแบ่งกลุ่มของลูกค้า ดังนั้นเราจึงต้องทำการแปลงข้อมูลให้อยู่ในรูป Costomer single view (1 แถวเป็น 1 ลูกค้า)
 
-![transaction_csv_data](https://user-images.githubusercontent.com/78030264/147189651-96385a33-c789-46ce-b31c-9c7686dd07d8.png)
+![ccc](https://user-images.githubusercontent.com/78030264/147262041-d81f0634-0a09-41cc-9075-4304368bae50.png)
 
 โดยทำการเลือก Feature สำหรับการแปลงดังนี้
 ### Feature
@@ -46,14 +46,17 @@
 ### Descriptive Statistics
 เป็นการเช็คสถิติในแต่ละกลุ่ม เพื่อดูว่าแต่ละกลุ่มมีคุณสมบัติเป็นอย่างไร
 
-<img src="https://user-images.githubusercontent.com/78030264/147203204-3fc9726f-920e-4f88-8830-2a237fa84007.png" width="800" >
+![bbbb](https://user-images.githubusercontent.com/78030264/147261367-79d1991a-045d-4481-bab8-1bead0a8f1d6.png)
 
 ### Tree model
 ทำการนำ K-mean ที่ได้ไปเข้า Tree model เนื่องจาก Tree model สามารถพล็อตเป็น Tree diagram แล้วตรวจสอบดูว่า  algorithm ใช้กฎเกณฑ์อะไรในการแยกแต่ละกลุ่ม
 ![tree](https://user-images.githubusercontent.com/78030264/147202996-1b3fbe59-6b82-4778-b1ae-34d01164eee5.png)
+
 ## 7. Conclusion
 ทำการสรุปผลแต่ละกลุ่ม โดยตั้งชื่อกลุ่มตามการวิวัฒนาการของมนุษย์ โดยไม่ได้เอาชื่อมนุษย์มาใช้เพราะทุกคนล้วนเป็นมนุษย์เหมือนกันทั้งหมด
 
 <img src="https://earth-chronicles.com/wp-content/uploads/2018/12/fdaa8dbac4a71ffe210dccdb66ec3b5a1.jpg" width="400" >
 
-![Conclusion](https://user-images.githubusercontent.com/78030264/147206115-3e8d5337-eb4b-404a-9d5c-d98f4f7e2c54.png)
+![aaaaaaa](https://user-images.githubusercontent.com/78030264/147260781-abd1f8f5-6e9a-45c8-9c94-810372469543.png)
+
+
