@@ -2,6 +2,8 @@
 ## 1. Import Library
 [![](https://img.shields.io/badge/-Pandas-red)](#) [![](https://img.shields.io/badge/-Numpy-red)](#) [![](https://img.shields.io/badge/-Scipy-red)](#) [![](https://img.shields.io/badge/-Sklearn-red)](#) [![](https://img.shields.io/badge/-Matplotlib-red)](#) 
 ## 2. Covert transaction data to customer single view
+
+เนื่องจากข้อมูลที่ได้มาเป็นข้อมูล Transaction data (1 แถวเป็น 1 การซื้อ) แต่เราจะแบ่งกลุ่มของลูกค้า ดังนั้นเราจึงต้องทำการแปลงข้อมูลให้อยู่ในรูป Costomer sigle view (1 แถวเป็น 1 ลูกค้า) โดยทำการเลือก Feature สำหรับการแปลงดังนี้
 ### Feature
 * TotalSpend
 * TotalVisits
