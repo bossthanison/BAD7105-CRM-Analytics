@@ -20,8 +20,7 @@
 
 ทำการสำรวจข้อมูลของลูกค้า เพื่อให้เห็นภาพรวม และเข้าใจลูกค้ามากขึ้น โดยในที่นี้จะขอพล๊อต Histogram 
 
-
-![explore_data](https://user-images.githubusercontent.com/78030264/147191450-5b1e891c-1044-493d-97d6-a8f0508c8ba1.png)
+![explor (1)](https://user-images.githubusercontent.com/78030264/147194218-b5855b14-696c-4798-95b5-974a503b0c4c.png)
 
 ### Insight
 * ```TotalSpend,TotalVisits,TotalProd,TicketSize```  : กราฟจะคล้ายๆกัน โดยกราฟเบ้ขวา ลูกค้าที่ยิ่งซื้อมาก มาบ่อยจะยิ่งลดลงเรื่อยๆ
@@ -30,8 +29,12 @@
 * ```BASKET_DOMINANT``` : ลูกค้าส่วนใหญ่จะซื้อสินค้าประเภท Fresh มากสุด
 ## 4. K-mean
 
+<img src="https://user-images.githubusercontent.com/78030264/147193125-01889e58-c8f3-420a-af69-fe911b42a7cb.png" width="600" >
+
+
 ## 5. PCA for visualization
-![download](https://user-images.githubusercontent.com/78030264/147134747-c9fdb94b-7bf5-42c3-afa9-5869abe59b65.png)
+<img src="https://user-images.githubusercontent.com/78030264/147194376-4176521b-5e5d-4bbe-b5fa-8aec388318b6.png" width="600" >
+
 ## 6. Interpret results
 ![download (1)](https://user-images.githubusercontent.com/78030264/147134865-c7fa494d-3d3f-4a86-a5f6-42a622087abf.png)
 ## 7. Conclusion
