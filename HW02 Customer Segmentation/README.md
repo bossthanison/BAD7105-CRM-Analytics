@@ -28,12 +28,17 @@
 * ```SHOP_HOURS``` : ชั่วโมงที่ลูกค้ามาบ่อยสุดจะเป็น12.00, 14.00, 20.00
 * ```BASKET_DOMINANT``` : ลูกค้าส่วนใหญ่จะซื้อสินค้าประเภท Fresh มากสุด
 ## 4. K-mean
-
+ทำการจัดกลุ่ม customer โดยจำเป็นต้องหาจำนวนกลุ่มที่เหมาะสม โดยการพล๊อต Elbow เพื่อเลือกจำนวนกลุ่มที่เหมาะสม 
 <img src="https://user-images.githubusercontent.com/78030264/147193125-01889e58-c8f3-420a-af69-fe911b42a7cb.png" width="600" >
 
+จากกราฟเลือกจำนวนกลุ่มเท่ากับ 4 เนื่องจากหลังจาก 4 เป็นต้นไป จำนวนกลุ่มเพิ่มแต่การเปลี่ยนแปลงเกิดขึ้นเพียงเล็กน้อย
 
 ## 5. PCA for visualization
+เนื่องจากจำนวน feature มีมากกว่า 2 ทำให้เราไม่สามารถ visualization ได้ ดังนั้นจึงนำ PCA มาใช้สำหรับการ Visualization โดยจะเห็นว่า 4 กลุ่มของลูกค้าค่อนข้างแบ่งกันได้อย่างชัดเจน
+
 <img src="https://user-images.githubusercontent.com/78030264/147194376-4176521b-5e5d-4bbe-b5fa-8aec388318b6.png" width="600" >
+
+
 
 ## 6. Interpret results
 ![download (1)](https://user-images.githubusercontent.com/78030264/147134865-c7fa494d-3d3f-4a86-a5f6-42a622087abf.png)
