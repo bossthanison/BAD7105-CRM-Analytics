@@ -52,3 +52,8 @@
 ทำการนำ K-mean ที่ได้ไปเข้า Tree model เนื่องจาก Tree model สามารถพล็อตเป็น Tree diagram แล้วตรวจสอบดูว่า  algorithm ใช้กฎเกณฑ์อะไรในการแยกแต่ละกลุ่ม
 ![tree](https://user-images.githubusercontent.com/78030264/147202996-1b3fbe59-6b82-4778-b1ae-34d01164eee5.png)
 ## 7. Conclusion
+ทำการสรุปผลแต่ละกลุ่ม โดยตั้งชื่อกลุ่มตามการวิวัฒนาการของมนุษย์ โดยไม่ได้เอาชื่อมนุษย์มาใช้เพราะทุกคนล้วนเป็นมนุษย์เหมือนกันทั้งหมด
+
+<img src="https://earth-chronicles.com/wp-content/uploads/2018/12/fdaa8dbac4a71ffe210dccdb66ec3b5a1.jpg" width="400" >
+
+![Conclusion](https://user-images.githubusercontent.com/78030264/147206115-3e8d5337-eb4b-404a-9d5c-d98f4f7e2c54.png)
