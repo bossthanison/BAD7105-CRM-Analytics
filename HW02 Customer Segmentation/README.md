@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-Pandas-red)](#) [![](https://img.shields.io/badge/-Numpy-red)](#) [![](https://img.shields.io/badge/-Scipy-red)](#) [![](https://img.shields.io/badge/-Sklearn-red)](#) [![](https://img.shields.io/badge/-Matplotlib-red)](#) 
 ## 2. Covert transaction data to customer single view
 
-เนื่องจากข้อมูลที่ได้มาเป็นข้อมูล Transaction data (1 แถวเป็น 1 การซื้อ) แต่เราจะแบ่งกลุ่มของลูกค้า ดังนั้นเราจึงต้องทำการแปลงข้อมูลให้อยู่ในรูป Costomer sigle view (1 แถวเป็น 1 ลูกค้า)
+เนื่องจากข้อมูลที่ได้มาเป็นข้อมูล Transaction data (1 แถวเป็น 1 การซื้อ) แต่เราจะแบ่งกลุ่มของลูกค้า ดังนั้นเราจึงต้องทำการแปลงข้อมูลให้อยู่ในรูป Costomer single view (1 แถวเป็น 1 ลูกค้า)
 
 ![transaction_csv_data](https://user-images.githubusercontent.com/78030264/147189651-96385a33-c789-46ce-b31c-9c7686dd07d8.png)
 
@@ -18,6 +18,16 @@
 * ```TicketSize``` : ค่าใช้จ่ายที่ซื้อต่อจำนวนครั้งที่เข้ามา
 ## 3. Exploratory data
 
+ทำการสำรวจข้อมูลของลูกค้า เพื่อให้เห็นภาพรวม และเข้าใจลูกค้ามากขึ้น โดยในที่นี้จะขอพล๊อต Histogram 
+
+
+![explore_data](https://user-images.githubusercontent.com/78030264/147191450-5b1e891c-1044-493d-97d6-a8f0508c8ba1.png)
+
+### Insight
+* ```TotalSpend,TotalVisits,TotalProd,TicketSize```  : กราฟจะคล้ายๆกัน โดยกราฟเบ้ขวา ลูกค้าที่ยิ่งซื้อมาก มาบ่อยจะยิ่งลดลงเรื่อยๆ
+* ```SHOP_WEEKDAYS``` : ลูกค้าส่วนใหญ่จะมาวันจันทร์ อังคารมากสุด และจะมาน้อยสุดในวันเสาร์และอาทิตย์
+* ```SHOP_HOURS``` : ชั่วโมงที่ลูกค้ามาบ่อยสุดจะเป็น12.00, 14.00, 20.00
+* ```BASKET_DOMINANT``` : ลูกค้าส่วนใหญ่จะซื้อสินค้าประเภท Fresh มากสุด
 ## 4. K-mean
 
 ## 5. PCA for visualization
