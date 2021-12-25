@@ -16,9 +16,19 @@
 
 [![](https://img.shields.io/badge/-Pandas-blue)](#) [![](https://img.shields.io/badge/-Numpy-blue)](#) [![](https://img.shields.io/badge/-imblearn-blue)](#) [![](https://img.shields.io/badge/-Sklearn-blue)](#) [![](https://img.shields.io/badge/-Matplotlib-blue)](#) 
 
-## 3. Data exploratory
+## 3. Data preparation
+เตรียมข้อมูลสำหรับการไปทำ Model โดยทำการสร้าง Feature ขึ้นมาใหม่ดังนี้
 
-## 4. Data preparation
+![preparation](https://user-images.githubusercontent.com/78030264/147379858-c5c7b768-3f26-4879-ba6d-256652a14f07.png)
+
+### Feature
+* ```Recency``` 
+* ```Frequency```
+* ```Monetary```
+* ```AOU```
+* ```Ticket size```
+
+## 4. Data exploratory
 
 ## 5. Oversampling SMOTE
 
