@@ -17,6 +17,8 @@
 * แปลงค่า ['เคยซื้อ','เคย'] เป็น 1 และ ['ไม่เคยซื้อ','ไม่เคย','ไม่','ไม่เคยซือ'] เป็น 0
 
 ## 3.Apriori
+![bah](https://user-images.githubusercontent.com/78030264/147376423-a1bc45b8-f5c2-41ad-8612-1a38d4ea5e2b.png)
+
 
 ## 4.Association_rules
 
