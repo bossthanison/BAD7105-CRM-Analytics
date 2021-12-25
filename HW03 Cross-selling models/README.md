@@ -22,6 +22,8 @@
 ![bah](https://user-images.githubusercontent.com/78030264/147376423-a1bc45b8-f5c2-41ad-8612-1a38d4ea5e2b.png)
 
 ## 4.Association_rules
+เป็นการหากฏว่าถ้าซื้อไอเท็มชิ้นนี้ แล้วมีโอกาศที่จะซื้อไอเท็มอะไร เพื่อนำไป recommend ให้กับลูกค้าเพื่อเพิ่มยอดขายมากขึ้น
+
 ![rule](https://user-images.githubusercontent.com/78030264/147376514-74ca9b83-7fef-4fe7-ac44-aab4962775cb.png)
 
 ## 5.Conclusion
