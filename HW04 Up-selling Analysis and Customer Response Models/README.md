@@ -28,12 +28,19 @@
 * ```AOU```
 * ```Ticket size```
 
-## 4. Data exploratory
+## 4. Oversampling SMOTE
+เนื่องจากข้อมูลมีความ Imbalane ลูกค้า Response 6237 คน แต่ ไม่Response เพียงแค่ 647 คน
 
-## 5. Oversampling SMOTE
+![imbalance](https://user-images.githubusercontent.com/78030264/147380020-67ec723c-6074-4e49-88df-dca724b2d695.png)
 
-## 6. Model
+ใช้ Oversampling SMOTE เพื่อให้ข้อมูลมีความ Balance เนื่องจากข้อมูล Imbalane ทำให้เวลาไปทำโมเดล machine learning จะเรียนรู้ข้อมูลที่มากมากกว่า ทำให้โมเดลจะไม่ค่อยเรียนรู้ลูกค้าที่ไม่ Response 
 
-## 7. Model Evaluation
+![eww](https://user-images.githubusercontent.com/78030264/147380113-ff3b9e3f-f5e6-4f43-b2ea-58799ff3c2e5.png)
 
-## 8. Hyperparameter Tuning
+
+## 5. Model
+
+## 6. Model Evaluation
+
+## 7. Hyperparameter Tuning
+
