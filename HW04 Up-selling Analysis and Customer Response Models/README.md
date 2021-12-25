@@ -49,10 +49,13 @@
 
 <img src="https://user-images.githubusercontent.com/78030264/147380358-91af35af-7b1f-4f91-96c7-e98393e078ed.png" width="600" >
 
+![train](https://user-images.githubusercontent.com/78030264/147380421-de5472b3-8082-4b1f-a04f-390aeadf1025.png)
 
 ### Test
 > AUC = 0.72
 
 
 <img src="https://user-images.githubusercontent.com/78030264/147380368-d1b3a88e-a52b-4036-b871-875f1e0be43a.png" width="600" >
+
+![Test](https://user-images.githubusercontent.com/78030264/147380423-1357d411-a396-47dc-bbc4-96c8031c166c.png)
 
