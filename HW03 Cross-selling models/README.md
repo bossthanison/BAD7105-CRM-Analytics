@@ -19,7 +19,10 @@
 ## 3.Apriori
 ![bah](https://user-images.githubusercontent.com/78030264/147376423-a1bc45b8-f5c2-41ad-8612-1a38d4ea5e2b.png)
 
-
 ## 4.Association_rules
+![rule](https://user-images.githubusercontent.com/78030264/147376514-74ca9b83-7fef-4fe7-ac44-aab4962775cb.png)
 
 ## 5.Conclusion
+เมื่อคนซื้อหม้อทอดไร้น้ำมัน ก็มักจะซื้อแก้วเก็บความเย็นด้วย โดย support=0.536585 ,confidence=0.880000, lift=1.163871
+
+![summary](https://user-images.githubusercontent.com/78030264/147376549-4b287732-d6de-465d-b7a6-4de7379f30be.png)
