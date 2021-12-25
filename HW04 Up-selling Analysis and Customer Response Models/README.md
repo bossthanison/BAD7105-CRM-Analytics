@@ -39,8 +39,20 @@
 
 
 ## 5. Model
+* ```Model``` : XGBClassifier
+* ```Parameter Tuning``` : {objective='binary:logistic', eval_metric='auc', learning_rate =0.005, n_estimators=600, max_depth=4, colsample_bytree=0.5}
+
 
 ## 6. Model Evaluation
+### Train
+> AUC = 0.81
 
-## 7. Hyperparameter Tuning
+<img src="https://user-images.githubusercontent.com/78030264/147380358-91af35af-7b1f-4f91-96c7-e98393e078ed.png" width="600" >
+
+
+### Test
+> AUC = 0.72
+
+
+<img src="https://user-images.githubusercontent.com/78030264/147380368-d1b3a88e-a52b-4036-b871-875f1e0be43a.png" width="600" >
 
