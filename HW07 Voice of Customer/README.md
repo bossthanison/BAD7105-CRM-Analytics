@@ -33,9 +33,25 @@
 > * Add new word such as {"สตารบัก","ชานมไข่มุก","หัวหิน","ราชเทวี","มากกกกกกกกกกก","อเมซอน","ราชาติดี","เค้าดาว"}
  
 ## 6. Word frequency each group
-### Group 0
+### > Group 0
 <img src="https://user-images.githubusercontent.com/78030264/147544655-1a284590-f668-42fd-9736-0cfa91200cb2.png" width="500" >
 
 ![wordcount0_bar (2)](https://user-images.githubusercontent.com/78030264/147545338-15498fed-3964-4c4e-b333-88f92c482a2e.png)
 
+### > Group 1
+<img src="https://user-images.githubusercontent.com/78030264/147546271-88ed4a64-06bd-4ca7-99e6-990df36ed203.png" width="500" >
+
+![wordcount1_bar](https://user-images.githubusercontent.com/78030264/147546288-c3d4c684-5dfd-4ab2-927c-9e32aa9464a8.png)
+
+### > Group 2
+<img src="https://user-images.githubusercontent.com/78030264/147546287-72f3f120-509a-4b65-8e07-d6ebdbc90ceb.png" width="500" >
+
+![wordcount2_bar](https://user-images.githubusercontent.com/78030264/147546294-ad5440a0-c8a1-4e59-9c79-9ab51cc37a00.png)
+
+### > Group 3
+<img src="https://user-images.githubusercontent.com/78030264/147546292-4dd5b08d-952f-4312-9cea-c7f64b20e355.png" width="500" >
+
+![wordcount3_bar](https://user-images.githubusercontent.com/78030264/147546290-b68db026-e92f-43aa-b7f6-03970a32bf0d.png)
+
 ## 7. Conclusion
+
