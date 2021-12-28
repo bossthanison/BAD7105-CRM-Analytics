@@ -13,7 +13,15 @@
 ## 3. Embedding and Dimension reduction
 เนื่องจากข้อมูลที่ได้มาเป็นText แต่เวลาคอมพิวเตอร์จะเข้าใจอะไรต้องเป็นตัวเลขเท่านั้น ดังนั้นเราต้องทำการ Embedding text ให้เป็นตัวเลขเวคเตอร์ก่อน
 
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7WKACZnN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1600/1%2A8Qy3hv5iLnKnWVhpjjl2jQ.png" width="500" >
+
+หลังจากนั้นทำการลด dimension ลงมาเพื่อกรองเฉพาะ variance ที่สำคัญลงมา และทำให้ช่วยให้การคำนวนเร็วขึ้น
+
+
 ## 4. K-mean clustering
+ทำการจัดกลุ่ม review ของลูกค้า โดยทำการ Plot elbow เพื่อดูว่าจะกำหนดจำนวนกลุ่มอยู่ที่เท่าไร โดยจะเห็นจากกราฟเลือก K = 4 เนื่องจากเพื่อจำนวนกลุ่มเพิ่มขึ้น กราฟจะเปลี่ยนแปลงเพียงเล็กน้อย
+
+![Elbow (2)](https://user-images.githubusercontent.com/78030264/147540454-05222f46-fbe0-46f5-99ea-0610b26443fd.png)
 
 ## 5. Text Cleansing
 
