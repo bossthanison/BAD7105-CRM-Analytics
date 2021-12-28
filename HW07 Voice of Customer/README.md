@@ -21,7 +21,8 @@
 ## 4. K-mean clustering
 ทำการจัดกลุ่ม review ของลูกค้า โดยทำการ Plot elbow เพื่อดูว่าจะกำหนดจำนวนกลุ่มอยู่ที่เท่าไร โดยจะเห็นจากกราฟเลือก K = 4 เนื่องจากเพื่อจำนวนกลุ่มเพิ่มขึ้น กราฟจะเปลี่ยนแปลงเพียงเล็กน้อย
 
-![Elbow (2)](https://user-images.githubusercontent.com/78030264/147540454-05222f46-fbe0-46f5-99ea-0610b26443fd.png)
+<img src="https://user-images.githubusercontent.com/78030264/147540454-05222f46-fbe0-46f5-99ea-0610b26443fd.png" width="600" >
+
 
 ## 5. Text Cleansing
 
