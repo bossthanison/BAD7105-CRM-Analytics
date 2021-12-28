@@ -19,13 +19,19 @@
 
 
 ## 4. K-mean clustering
-ทำการจัดกลุ่ม review ของลูกค้า โดยทำการ Plot elbow เพื่อดูว่าจะกำหนดจำนวนกลุ่มอยู่ที่เท่าไร โดยจะเห็นจากกราฟเลือก K = 4 เนื่องจากเพื่อจำนวนกลุ่มเพิ่มขึ้น กราฟจะเปลี่ยนแปลงเพียงเล็กน้อย
+ทำการจัดกลุ่ม review ของลูกค้า โดยทำการ Plot elbow เพื่อดูว่าจะกำหนดจำนวนกลุ่มอยู่ที่เท่าไร โดยจะเห็นจากกราฟเลือก K = 4 เนื่องจากจะเห็นว่าเมื่อจำนวนกลุ่มเพิ่มขึ้น กราฟจะเปลี่ยนแปลงเพียงเล็กน้อย
 
 <img src="https://user-images.githubusercontent.com/78030264/147540454-05222f46-fbe0-46f5-99ea-0610b26443fd.png" width="600" >
 
 
 ## 5. Text Cleansing
-
+ทำการ Clean ข้อมูลใน Text ที่ไม่มีประโยชน์ในการที่จะเห็น insight ภายในกลุ่ม โดยใช้ Regular expression 
+> * Remove Special characters
+> * Remove Emoji
+> * Remove Digit
+> * Remove White space
+> * Add new word such as {"สตารบัก","ชานมไข่มุก","หัวหิน","ราชเทวี","มากกกกกกกกกกก","อเมซอน","ราชาติดี","เค้าดาว"}
+ 
 ## 6. Word frequency each group
 
 ## 7. Conclusion
