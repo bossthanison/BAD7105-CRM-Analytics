@@ -33,5 +33,9 @@
 > * Add new word such as {"สตารบัก","ชานมไข่มุก","หัวหิน","ราชเทวี","มากกกกกกกกกกก","อเมซอน","ราชาติดี","เค้าดาว"}
  
 ## 6. Word frequency each group
+### Group 0
+<img src="https://user-images.githubusercontent.com/78030264/147544655-1a284590-f668-42fd-9736-0cfa91200cb2.png" width="500" >
+
+![wordcount0_bar (2)](https://user-images.githubusercontent.com/78030264/147545338-15498fed-3964-4c4e-b333-88f92c482a2e.png)
 
 ## 7. Conclusion
