@@ -1,4 +1,4 @@
-# BAD7105-CRM-Analytics
+# BADS7105-CRM-Analytics
 
 ![sss](https://user-images.githubusercontent.com/78030264/147626483-14bd7324-a581-462b-9a6b-46708ce795ce.png)
 
