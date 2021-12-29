@@ -2,11 +2,18 @@
 6220422060 Thanison Saraphan 
 
 
-HW01 CLV Dashboard
-HW02 Customer Segmentation
-HW03 Cross-selling models
-HW04 Campaign Response Model
-HW05 AB Testing
-HW06 Churn Prediction Analysis
-HW07 Voice of Customer
-HW08 Design Thinking
+:ballot_box_with_check: **HW01 CLV Dashboard**
+
+:ballot_box_with_check: **HW02 Customer Segmentation**
+
+:ballot_box_with_check: **HW03 Cross-selling models**
+
+:ballot_box_with_check: **HW04 Campaign Response Model**
+
+:ballot_box_with_check: **HW05 AB Testing**
+
+:ballot_box_with_check: **HW06 Churn Prediction Analysis**
+
+:ballot_box_with_check: **HW07 Voice of Customer**
+
+:ballot_box_with_check: **HW08 Design Thinking**
